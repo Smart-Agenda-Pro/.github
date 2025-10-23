@@ -1,6 +1,6 @@
 <div align="center">
 
-![SmartAgenda Management](assets/images/icon.png)
+<img width="450" height="450" alt="Smart-Agenda" src="https://github.com/user-attachments/assets/0e9649c1-32e5-48aa-bd46-e31e63080e1d" />
 
 # SmartAgenda Management
 
